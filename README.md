@@ -16,7 +16,7 @@ This is my biggest project so far. I set up a full SIEM using Wazuh on a home la
 I didn't just install it and take a screenshot. I wrote custom detection rules from scratch, simulated real attacks like SSH brute force and file tampering, and watched Wazuh catch them in real time. Honestly one of the most satisfying things I've built.
 
 **What I used:** Wazuh 4.7.5 · Kali Linux · Ubuntu 22.04 · VirtualBox · Hydra · MITRE ATT&CK  
-📁 [`wazuh-siem-homelab/`](wazuh-siem-homelab/)
+📁 [`wazuh-siem-homelab/`](Wazuh-SIEM-labs/)
 
 ---
 
