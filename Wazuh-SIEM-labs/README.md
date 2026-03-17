@@ -86,7 +86,7 @@ All screenshots are in the [`screenshots/`](screenshots/) folder showing attack 
 
 **Aniket Patel**  
 Cybersecurity Enthusiast | Fresher  
-📧 Connect on [LinkedIn](#https://www.linkedin.com/in/aniket-patel-253820253/)  
+📧 Connect on [LinkedIn](https://www.linkedin.com/in/aniket-patel-253820253/)  
 🔗 [Portfolio Repository](https://github.com/YourUsername/cybersecurity-learning-portfolio)
 
 ---
