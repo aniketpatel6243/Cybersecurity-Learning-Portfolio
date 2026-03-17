@@ -18,7 +18,7 @@ Two VMs connected on a Host-Only network:
 
 ## Custom Detection Rules
 
-I wrote 3 custom XML rules in `/var/ossec/etc/rules/local_rules.xml`, each mapped to MITRE ATT&CK:
+I wrote 3 custom XML rules in `/var/ossec/etc/rules/`, each mapped to MITRE ATT&CK:
 
 | Rule ID | Detects | MITRE |
 |---|---|---|
@@ -34,7 +34,7 @@ Full rules → [`rules/local_rules.xml`](rules/local_rules.xml)
 
 **1. SSH Brute Force**
 ```bash
-hydra -l root -P /usr/share/wordlists/rockyou.txt 192.168.56.101 ssh -t 4
+hydra -l root -P /usr/share/wordlists/rockyou.txt 192.168.x.x ssh -t 4
 ```
 Rule 100001 fired after 5 failed attempts from same IP.
 
@@ -86,7 +86,7 @@ All screenshots are in the [`screenshots/`](screenshots/) folder showing attack 
 
 **Aniket Patel**  
 Cybersecurity Enthusiast | Fresher  
-📧 Connect on [LinkedIn](#)  
+📧 Connect on [LinkedIn](#www.linkedin.com/in/aniket-patel-253820253)  
 🔗 [Portfolio Repository](https://github.com/YourUsername/cybersecurity-learning-portfolio)
 
 ---
