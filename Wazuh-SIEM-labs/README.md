@@ -74,11 +74,11 @@ All screenshots are in the [`screenshots/`](screenshots/) folder showing attack 
 
 ## Tools & Technologies
 
-![Wazuh]
-![Kali Linux]
-![Ubuntu]
-![VirtualBox]
-![MITRE ATT&CK]
+[Wazuh]
+[Kali Linux]
+[Ubuntu]
+[VirtualBox]
+[MITRE ATT&CK]
 
 ---
 
