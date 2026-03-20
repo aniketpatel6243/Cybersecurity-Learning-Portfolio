@@ -26,27 +26,19 @@ What I used: Wazuh 4.7.5 · Kali Linux · Ubuntu 22.04 · VirtualBox · Hydra ·
 What I'm Comfortable With
 
 Ingesting, parsing and analyzing logs in Splunk using SPL queries
-
 Setting up and configuring SIEM tools (Splunk, Wazuh)
-
 Writing custom detection rules and mapping them to MITRE ATT&CK
-
 Simulating attacks in a safe lab environment and validating detections
-
 Building SOC dashboards for real-time threat visibility
-
 Investigating security incidents — identifying attackers, attack patterns and compromise indicators
-
 Python scripting for security automation
-
 Linux administration (Ubuntu, Kali)
-
 Reading, triaging and documenting security alerts
-
 Writing professional incident reports
 
 
 Tools and Technologies
+
 CategoryToolsSIEMSplunk Enterprise, WazuhQuery LanguagesSPL (Splunk Processing Language)Network AnalysisZeek/Bro, WiresharkAttack SimulationHydra, Kali LinuxFrameworksMITRE ATT&CKScriptingPythonOperating SystemsWindows 11, Ubuntu 22.04, Kali LinuxVirtualizationVirtualBox
 
 
