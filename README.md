@@ -4,6 +4,8 @@ This is where I document everything I build.
 I'm looking for opportunities in SOC Analysis, Security Analysis, or anything in the Blue Team / Information Security space.
 
 Projects
+
+
 🔵 Splunk SIEM — SSH Brute Force Investigation
 My first deep dive into Splunk as a SIEM platform. I ingested real Zeek network capture logs containing 7,143 SSH connection events and investigated a large-scale brute force attack campaign from start to finish.
 I didn't just upload the data and run a default search. I configured custom field extractions using regex to parse the Zeek log format, wrote SPL queries to identify the top attacking IPs, uncovered multiple successful unauthorized SSH logins, built a full SOC analyst dashboard with attack timelines and status breakdowns, and documented everything as a professional incident report.
