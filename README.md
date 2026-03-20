@@ -6,7 +6,7 @@ This is where I document everything I build.
 
 I'm looking for opportunities in **SOC Analysis**, **Security Analysis**, or anything in the **Blue Team / Information Security** space.
 
----
+
 
 ## Projects
 
@@ -18,7 +18,7 @@ I didn't just install it and take a screenshot. I wrote custom detection rules f
 **What I used:** Wazuh 4.7.5 · Kali Linux · Ubuntu 22.04 · VirtualBox · Hydra · MITRE ATT&CK  
 📁 [`wazuh-siem-homelab/`](Wazuh-SIEM-labs/)
 
----
+
 
 ### 🔴 Web Vulnerability Scanner *(coming soon)*
 Building a Python tool to scan web apps for XSS, missing security headers, and directory traversal. Wanted to understand how tools like Burp Suite work under the hood.
@@ -26,7 +26,7 @@ Building a Python tool to scan web apps for XSS, missing security headers, and d
 **What I'm using:** Python · Requests · OWASP Top 10  
 📁 `web-vulnerability-scanner/`
 
----
+
 
 ### 🔴 SQL Injection Lab *(coming soon)*
 Building a deliberately vulnerable Flask app and a detection script. The goal is to understand SQLi from both sides — how it's exploited and how to defend against it.
@@ -34,7 +34,7 @@ Building a deliberately vulnerable Flask app and a detection script. The goal is
 **What I'm using:** Python · Flask · SQLite · Web Security  
 📁 `sql-injection-lab/`
 
----
+
 
 ### 🔴 File Integrity Monitoring Tool *(coming soon)*
 A lightweight Python tool that watches critical system files and alerts when something changes. Built after working with Wazuh's FIM module and wanting to understand how it works at a lower level.
@@ -42,7 +42,6 @@ A lightweight Python tool that watches critical system files and alerts when som
 **What I'm using:** Python · Linux · File Monitoring  
 📁 `file-integrity-monitoring/`
 
----
 
 ## Things I'm comfortable with
 
@@ -53,7 +52,7 @@ A lightweight Python tool that watches critical system files and alerts when som
 - Linux administration (Ubuntu, Kali)
 - Reading and triaging security alerts
 
----
+
 
 ## Currently
 
@@ -61,13 +60,13 @@ A lightweight Python tool that watches critical system files and alerts when som
 - 🔨 Building more projects and adding them here
 - 📖 Working towards CompTIA Security+
 
----
+
 
 ## Let's connect
 
-- 💼 [LinkedIn](#) ← add your link
-- 📧 ← add your email
+- 💼 [LinkedIn](#)
+  
 
----
+
 
 *Everything here is built in a home lab for learning purposes. All attacks are performed on systems I own and control.*
