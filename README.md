@@ -64,7 +64,7 @@ A lightweight Python tool that watches critical system files and alerts when som
 
 ## Let's connect
 
-- 💼 [LinkedIn](#)
+- 💼 [LinkedIn](https://linkedin.com/in/aniket-patel-253820253)
   
 
 
